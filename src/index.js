@@ -8,6 +8,7 @@ import Mounting  from './Mounting'
 import Life from './Life'
 import Iterator from './Iterator'
 import High from './High'
+import Transpiler from './Transpiler'
 
-ReactDOM.render(<High/>,
+ReactDOM.render(<Transpiler/>,
    document.getElementById('root'));
