@@ -20,7 +20,7 @@ class Mounting extends React.Component {
     console.log("DidMount");
   }
 
-  componentWillUnMount(){
+  componentWillUnmount(){
     console.log("WillUnMount");
   }
 
