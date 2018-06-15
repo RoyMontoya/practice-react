@@ -9,6 +9,9 @@ import Life from './Life'
 import Iterator from './Iterator'
 import High from './High'
 import Transpiler from './Transpiler'
+import Children from './Children'
+import Buzz from './Buzz'
+import Reusable from './Reusable'
 
-ReactDOM.render(<Transpiler/>,
+ReactDOM.render(<Reusable/>,
    document.getElementById('root'));
